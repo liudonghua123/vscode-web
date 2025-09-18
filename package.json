@@ -1,6 +1,6 @@
 {
   "name": "@liudonghua123/vscode-web",
-  "version": "1.104.0",
+  "version": "1.104.1",
   "description": "Visual Studio Code for browser",
   "files": [
     "dist"
