@@ -22,7 +22,7 @@ jobs:
       current_tag_name: ${{ steps.check_tag_updated.outputs.current_tag_name }}
     steps:
       - name: 'Checkout'
-        uses: actions/checkout@v2
+        uses: actions/checkout@v7
 
       - name: 'Checkout upstream updates'
         uses: actions/github-script@v6
